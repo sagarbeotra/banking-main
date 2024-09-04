@@ -3,14 +3,23 @@ banking app with a finance management dashboard that connects multiple bank acco
  
 # TECH STACK USED:
 Next.js 
+
 TypeScript
+
 Appwrite
+
 Plaid
+
 Dwolla
+
 React Hook Form
+
 Zod
+
 TailwindCSS
+
 Chart.js
+
 ShadCN
  
  # FEATURES USED :
